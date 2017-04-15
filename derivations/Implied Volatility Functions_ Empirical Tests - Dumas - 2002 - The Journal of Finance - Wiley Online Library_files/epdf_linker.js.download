@@ -1,0 +1,2 @@
+(function(){try{window['readcube-mobile-supported']=false;window['readcube-request-ua']='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36';}catch(e){}
+var script=document.createElement('script');script.async=true;script.type='text/javascript';script.src='https://content-assets.readcube.com/assets/wiley_epdf_linker-d80ae808ea594227e30544129820f57e.js';document.getElementsByTagName('head').item(0).appendChild(script);})();
